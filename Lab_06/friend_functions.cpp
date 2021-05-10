@@ -37,8 +37,9 @@ int main(void){
     INCOME_TAX_DEPT_GOI(DMART_Store_NGP);
 
     /*Corresponding Ouput
-
-
+    GST For Details of Company : BGLOV56THHJ
+    GST For Details of Company : GSOT77THIKL
+    GST For Details of Company : JIHGHY77GHK
     */
     return 0;
 }
