@@ -1,4 +1,4 @@
-## Welcome to My Undergrad Course Object Oriented Lab Repo
+## Welcome to My UnderGrad College Course Repo of Object Oriented Programming Lab
 ### This Repository Contains all the Lab excercises of Course
 
 <p float="left">
