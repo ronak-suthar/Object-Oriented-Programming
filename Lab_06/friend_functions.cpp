@@ -36,5 +36,9 @@ int main(void){
     INCOME_TAX_DEPT_GOI(Jubliee_Bakery);
     INCOME_TAX_DEPT_GOI(DMART_Store_NGP);
 
+    /*Corresponding Ouput
+
+
+    */
     return 0;
 }
