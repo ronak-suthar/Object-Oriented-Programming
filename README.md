@@ -2,8 +2,8 @@
 ### This Repository Contains all the Lab excercises of Course
 
 <p float="left">
-  <img src="https://github.com/ronak-suthar/Object-Oriented-Programming/blob/master/Images/oops.jpg" width="450" />
-  <img src="https://github.com/ronak-suthar/Object-Oriented-Programming/blob/master/Images/pc_img_unsplash.jpg" height = 450" width="450" /> 
+  <img src="https://github.com/ronak-suthar/Object-Oriented-Programming/blob/master/Images/oops.jpg" width="300" />
+  <img src="https://github.com/ronak-suthar/Object-Oriented-Programming/blob/master/Images/pc_img_unsplash.jpg" height = 300" width="300" /> 
 </p> 
 
 ### Contents of Repo / Lab Excercises
