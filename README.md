@@ -14,3 +14,5 @@
 4. [Lab 04 : Inheritance and Virtual Function](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_04)
 5. [Lab 05 : Operator Overloading](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_05)
 6. [Lab 06 : Friend Function](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_06)
+7. [Lab 07 : Stack & Queue Using Array](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_07)
+8. [Lab 08 : Stack & Queue Using Linked List](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_08)
