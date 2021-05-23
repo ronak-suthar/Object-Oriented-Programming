@@ -16,3 +16,5 @@
 6. [Lab 06 : Friend Function](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_06)
 7. [Lab 07 : Stack & Queue Using Array](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_07)
 8. [Lab 08 : Stack & Queue Using Linked List](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_08)
+9. [Lab 09 : File Handling & Templates](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_09)
+10. [Lab 10 : Command Line arguments and Exception handling](https://github.com/ronak-suthar/Object-Oriented-Programming/tree/master/Lab_10)
