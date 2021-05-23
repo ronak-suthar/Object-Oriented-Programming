@@ -15,7 +15,7 @@ int main(void){
         cin>>otp;
 
         try{
-            int length = (otp<=9 ? 1 : floor(log10(otp)+1));
+            int length = (otp<=9) ? 1 : floor(log10(otp)+1);
 
             if(length!=6){
                 throw 1;
